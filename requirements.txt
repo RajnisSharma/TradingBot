@@ -1,0 +1,13 @@
+# Core API library for Binance
+python-binance==1.0.19
+
+# Optional but highly recommended for development:
+
+# For reading API keys from a .env file (SECURITY BEST PRACTICE)
+python-dotenv==1.0.0
+
+# For making HTTP requests (sometimes needed for debugging)
+requests==2.31.0
+
+# For colored console output (enhances CLI readability)
+colorama==0.4.6

@@ -1,0 +1,66 @@
+2026-01-12 12:44:34,635 - TradingBot - INFO - ============================================================
+2026-01-12 12:44:34,635 - TradingBot - INFO - Starting Binance Futures Testnet Trading Bot
+2026-01-12 12:44:34,636 - TradingBot - INFO - ============================================================
+2026-01-12 12:44:35,259 - TradingBot - INFO - Client initialized for Binance Futures TESTNET.
+2026-01-12 12:44:36,016 - TradingBot - INFO - Connection to Binance API successful.
+2026-01-12 12:44:36,017 - TradingBot - INFO - Attempting MARKET order: BUY 0.001 of BTCUSDT
+2026-01-12 12:44:36,139 - TradingBot - ERROR - API Error: 401 - API-key format invalid.
+2026-01-12 12:44:36,140 - TradingBot - ERROR - Final order outcome: Order failed due to API error.
+2026-01-12 12:44:36,140 - TradingBot - INFO - Trading Bot session ended.
+
+2026-01-12 12:59:54,453 - TradingBot - INFO - ============================================================
+2026-01-12 12:59:54,460 - TradingBot - INFO - Starting Binance Futures Testnet Trading Bot
+2026-01-12 12:59:54,460 - TradingBot - INFO - ============================================================
+2026-01-12 12:59:55,097 - TradingBot - INFO - Client initialized for Binance Futures TESTNET.
+2026-01-12 12:59:55,559 - TradingBot - INFO - Connection to Binance API successful.
+2026-01-12 12:59:55,567 - TradingBot - INFO - Attempting MARKET order: BUY 0.001 of BTCUSDT
+2026-01-12 12:59:55,688 - TradingBot - ERROR - API Error: 400 - Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-01-12 12:59:55,690 - TradingBot - ERROR - Final order outcome: Order failed due to API error.
+2026-01-12 12:59:55,691 - TradingBot - INFO - Trading Bot session ended.
+
+2026-01-12 19:19:23,229 - TradingBot - INFO - ============================================================
+2026-01-12 19:19:23,230 - TradingBot - INFO - Starting Binance Futures Testnet Trading Bot
+2026-01-12 19:19:23,230 - TradingBot - INFO - ============================================================
+2026-01-12 19:21:56,507 - TradingBot - INFO - ============================================================
+2026-01-12 19:21:56,507 - TradingBot - INFO - Starting Binance Futures Testnet Trading Bot
+2026-01-12 19:21:56,508 - TradingBot - INFO - ============================================================
+2026-01-12 19:21:57,552 - TradingBot - INFO - Client initialized for Binance Futures TESTNET.
+2026-01-12 19:21:58,599 - TradingBot - INFO - Connection to Binance API successful.
+2026-01-12 19:21:58,601 - TradingBot - INFO - Attempting MARKET order: BUY 0.001 of BTCUSDT
+2026-01-12 19:21:59,279 - TradingBot - ERROR - Final order outcome: Quantity too small. Minimum quantity for BTCUSDT is 0.002 (min notional 100).
+2026-01-12 19:21:59,279 - TradingBot - INFO - Trading Bot session ended.
+
+2026-01-12 19:31:06,888 - TradingBot - INFO - ============================================================
+2026-01-12 19:31:06,889 - TradingBot - INFO - Starting Binance Futures Testnet Trading Bot
+2026-01-12 19:31:06,889 - TradingBot - INFO - ============================================================
+2026-01-12 19:31:07,774 - TradingBot - INFO - Client initialized for Binance Futures TESTNET.
+2026-01-12 19:31:09,663 - TradingBot - INFO - Connection to Binance API successful.
+2026-01-12 19:31:09,672 - TradingBot - INFO - Attempting MARKET order: BUY 0.001 of BTCUSDT
+2026-01-12 19:31:10,423 - TradingBot - INFO - Auto-adjusting quantity 0.001 -> 0.002 to meet min notional 100
+2026-01-12 19:31:10,548 - TradingBot - INFO - Order placed successfully. Response: {'orderId': 11625950799, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'FloLeZRddwJbGomiTA8HoA', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1768226470021}
+2026-01-12 19:31:10,560 - TradingBot - INFO - Final order outcome: Market order placed successfully.
+2026-01-12 19:31:10,560 - TradingBot - INFO - Trading Bot session ended.
+
+2026-01-12 19:31:40,845 - TradingBot - INFO - ============================================================
+2026-01-12 19:31:40,845 - TradingBot - INFO - Starting Binance Futures Testnet Trading Bot
+2026-01-12 19:31:40,845 - TradingBot - INFO - ============================================================
+2026-01-12 19:31:44,337 - TradingBot - INFO - Client initialized for Binance Futures TESTNET.
+2026-01-12 19:31:44,818 - TradingBot - INFO - Connection to Binance API successful.
+2026-01-12 19:31:44,819 - TradingBot - INFO - Attempting LIMIT order: SELL 0.1 of ETHUSDT @ 2500.0
+2026-01-12 19:31:45,461 - TradingBot - ERROR - API Error: 400 - Limit price can't be lower than 2951.71.
+2026-01-12 19:31:45,464 - TradingBot - ERROR - Final order outcome: Order failed due to API error.
+2026-01-12 19:31:45,464 - TradingBot - INFO - Trading Bot session ended.
+
+2026-01-12 19:33:59,918 - TradingBot - INFO - ============================================================
+2026-01-12 19:33:59,919 - TradingBot - INFO - Starting Binance Futures Testnet Trading Bot
+2026-01-12 19:33:59,919 - TradingBot - INFO - ============================================================
+2026-01-12 19:35:30,956 - TradingBot - INFO - ============================================================
+2026-01-12 19:35:30,957 - TradingBot - INFO - Starting Binance Futures Testnet Trading Bot
+2026-01-12 19:35:30,957 - TradingBot - INFO - ============================================================
+2026-01-12 19:35:31,573 - TradingBot - INFO - Client initialized for Binance Futures TESTNET.
+2026-01-12 19:35:32,383 - TradingBot - INFO - Connection to Binance API successful.
+2026-01-12 19:35:32,384 - TradingBot - INFO - Attempting MARKET order: BUY 0.002 of BTCUSDT
+2026-01-12 19:35:33,716 - TradingBot - INFO - Order placed successfully. Response: {'orderId': 11626039010, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'vkLIK6X13pw0uLDM9XbsFs', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1768226733140}
+2026-01-12 19:35:33,722 - TradingBot - INFO - Final order outcome: Market order placed successfully.
+2026-01-12 19:35:33,723 - TradingBot - INFO - Trading Bot session ended.
+

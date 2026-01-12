@@ -1,0 +1,3 @@
+# config.py - DO NOT SHARE THIS FILE
+API_KEY = "k6NojuQt7mhzelAKLEOorpcMqKE7dqY7qta6u1yqcK3Spk2OqsrsOKKa7FxiWbo7"
+API_SECRET = "G4YBMYCIZSLZEr0q32RvZDLvquSOyQalKOJyT35zdyx6nFOwwvaJH2nrD3CkwFAi"
